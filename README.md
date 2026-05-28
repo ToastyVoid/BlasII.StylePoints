@@ -6,7 +6,7 @@ A mod adding style points and a style meter to Blasphemous II, giving you a bett
 | Rank | Name           | Color  | Points |
 | ---- | -------------- | ------ | ------ |
 | SSS  | Blasphemous II | red    |   2000 |
-| SS   | Blasphemous    | red    |   1000 |
+| SS   | Cheeseman1    | red    |   1000 |
 | S    | Sacreligious   | red    |    500 |
 | A    | Apostate       | orange |    300 |
 | B    | Blasphem       | yellow |    150 |
