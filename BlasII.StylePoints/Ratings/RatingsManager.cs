@@ -44,7 +44,7 @@ public class RatingsManager : Manager<RatingID, Rating>
 		Add(RatingID.B, "Blasphem", Color.yellow, 150, RatingID.C, RatingID.A);
 		Add(RatingID.A, "Apostate", new Color(0.75f, 0.5f, 0f, 1f), 300, RatingID.B, RatingID.S);
 		Add(RatingID.S, "Sacreligious", Color.red, 500, RatingID.A, RatingID.SS);
-		Add(RatingID.SS, "Cheeseman1", Color.red, 1000, RatingID.S, RatingID.SSS);
+		Add(RatingID.SS, "Qwasker", Color.red, 1000, RatingID.S, RatingID.SSS);
 		Add(RatingID.SSS, "Blasphemous II", Color.red, 2000, RatingID.SS, null);
 	}
 }
